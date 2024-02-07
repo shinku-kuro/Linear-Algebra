@@ -1,0 +1,2753 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2023.9.14)  6 FEB 2024 21:35
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/code/LaTex/linear algebra and geometry/Á∫øÊÄß‰ª£Êï∞‰∏éÂá†‰Ωï.tex"
+(c:/code/LaTex/linear algebra and geometry/Á∫øÊÄß‰ª£Êï∞‰∏éÂá†‰Ωï.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (c:/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(c:/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (c:/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctex.sty (c:/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+ (c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box45
+))
+Package: ctex 2019/05/29 v2.4.16 Chinese adapter in LaTeX (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count176
+\g__xparse_grabber_int=\count177
+\l__xparse_m_args_int=\count178
+\l__xparse_v_nesting_int=\count179
+) (c:/texlive/2020/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-03-06 LaTeX2e option processing using LaTeX3 keys
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexhook.sty
+Package: ctexhook 2019/05/29 v2.4.16 Document and package hooks (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexpatch.sty
+Package: ctexpatch 2019/05/29 v2.4.16 Patching commands (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/base/fix-cm.sty
+Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
+ (c:/texlive/2020/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
+)) (c:/texlive/2020/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\l__ctex_tmp_int=\count180
+\l__ctex_tmp_box=\box46
+\l__ctex_tmp_dim=\dimen137
+\g__ctex_section_depth_int=\count181
+\g__ctex_font_size_int=\count182
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
+File: ctexopts.cfg 2019/05/29 v2.4.16 Option configuration file (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/engine/ctex-engine-pdftex.def
+File: ctex-engine-pdftex.def 2019/05/29 v2.4.16 (pdf)LaTeX adapter (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.sty
+Package: CJK 2015/04/18 4.8.4
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/mule/MULEenc.sty
+Package: MULEenc 2015/04/18 4.8.4
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJK.enc
+File: CJK.enc 2015/04/18 4.8.4
+Now handling font encoding C00 ...
+... no UTF-8 mapping file for font encoding C00
+Now handling font encoding C05 ...
+... no UTF-8 mapping file for font encoding C05
+Now handling font encoding C09 ...
+... no UTF-8 mapping file for font encoding C09
+Now handling font encoding C10 ...
+... no UTF-8 mapping file for font encoding C10
+Now handling font encoding C20 ...
+... no UTF-8 mapping file for font encoding C20
+Now handling font encoding C19 ...
+... no UTF-8 mapping file for font encoding C19
+Now handling font encoding C40 ...
+... no UTF-8 mapping file for font encoding C40
+Now handling font encoding C42 ...
+... no UTF-8 mapping file for font encoding C42
+Now handling font encoding C43 ...
+... no UTF-8 mapping file for font encoding C43
+Now handling font encoding C50 ...
+... no UTF-8 mapping file for font encoding C50
+Now handling font encoding C52 ...
+... no UTF-8 mapping file for font encoding C52
+Now handling font encoding C49 ...
+... no UTF-8 mapping file for font encoding C49
+Now handling font encoding C60 ...
+... no UTF-8 mapping file for font encoding C60
+Now handling font encoding C61 ...
+... no UTF-8 mapping file for font encoding C61
+Now handling font encoding C63 ...
+... no UTF-8 mapping file for font encoding C63
+Now handling font encoding C64 ...
+... no UTF-8 mapping file for font encoding C64
+Now handling font encoding C65 ...
+... no UTF-8 mapping file for font encoding C65
+Now handling font encoding C70 ...
+... no UTF-8 mapping file for font encoding C70
+Now handling font encoding C31 ...
+... no UTF-8 mapping file for font encoding C31
+Now handling font encoding C32 ...
+... no UTF-8 mapping file for font encoding C32
+Now handling font encoding C33 ...
+... no UTF-8 mapping file for font encoding C33
+Now handling font encoding C34 ...
+... no UTF-8 mapping file for font encoding C34
+Now handling font encoding C35 ...
+... no UTF-8 mapping file for font encoding C35
+Now handling font encoding C36 ...
+... no UTF-8 mapping file for font encoding C36
+Now handling font encoding C37 ...
+... no UTF-8 mapping file for font encoding C37
+Now handling font encoding C80 ...
+... no UTF-8 mapping file for font encoding C80
+Now handling font encoding C81 ...
+... no UTF-8 mapping file for font encoding C81
+Now handling font encoding C01 ...
+... no UTF-8 mapping file for font encoding C01
+Now handling font encoding C11 ...
+... no UTF-8 mapping file for font encoding C11
+Now handling font encoding C21 ...
+... no UTF-8 mapping file for font encoding C21
+Now handling font encoding C41 ...
+... no UTF-8 mapping file for font encoding C41
+Now handling font encoding C62 ...
+... no UTF-8 mapping file for font encoding C62
+)
+LaTeX Info: Redefining \selectfont on input line 755.
+\CJK@indent=\box47
+) (c:/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.sty
+Package: CJKpunct 2016/05/14 4.8.4
+\CJKpunct@cnta=\count183
+\CJKpunct@cntb=\count184
+\CJKpunct@cntc=\count185
+\CJKpunct@cntd=\count186
+\CJKpunct@cnte=\count187
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2026 (decimal 8230)
+ (c:/texlive/2020/texmf-dist/tex/latex/cjkpunct/CJKpunct.spa)) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKspace.sty
+Package: CJKspace 2015/04/18 3.8.0
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/standard.bdg
+File: standard.bdg 2015/04/18 4.8.4
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctexspa.def
+File: ctexspa.def 2019/05/29 v2.4.16 Space info for CJKpunct (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKfntef.sty
+Package: CJKfntef 2015/04/18 4.8.4
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/CJKulem.sty
+Package: CJKulem 2015/04/18 4.8.4
+ (c:/texlive/2020/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box48
+\UL@hyphenbox=\box49
+\UL@skip=\skip49
+\UL@hook=\toks16
+\UL@height=\dimen138
+\UL@pe=\count188
+\UL@pixel=\dimen139
+\ULC@box=\box50
+Package: ulem 2019/11/18
+\ULdepth=\dimen140
+)
+\UL@lastkern=\dimen141
+\CJK@skip=\skip50
+)
+\CJK@fntefSkip=\skip51
+\CJK@nest=\count189
+\CJK@fntefDimen=\dimen142
+\CJK@underdotBox=\box51
+\CJK@ULbox=\box52
+\CJK@underanyskip=\dimen143
+)
+\ccwd=\dimen144
+\l__ctex_ccglue_skip=\skip52
+)
+\l__ctex_ziju_dim=\dimen145
+ (c:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber.sty
+Package: zhnumber 2019/04/07 v2.7 Typesetting numbers with Chinese glyphs
+\l__zhnum_scale_int=\count190
+\l__zhnum_byte_min_int=\count191
+\l__zhnum_byte_max_int=\count192
+ (c:/texlive/2020/texmf-dist/tex/latex/zhnumber/zhnumber-gbk.cfg
+File: zhnumber-gbk.cfg 2019/04/07 v2.7 Chinese numerals with GBK encoding
+)) (c:/texlive/2020/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-chinese.def
+File: ctex-scheme-chinese.def 2019/05/29 v2.4.16 Chinese scheme for generic (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex-name-gbk.cfg
+File: ctex-name-gbk.cfg 2019/05/29 v2.4.16 Caption with encoding GBK (CTEX)
+)) (c:/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/ctex-c5size.clo
+File: ctex-c5size.clo 2019/05/29 v2.4.16 c5size option (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windows.def
+File: ctex-fontset-windows.def 2019/05/29 v2.4.16 Windows fonts definition (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/fontset/ctex-fontset-windowsnew.def
+File: ctex-fontset-windowsnew.def 2019/05/29 v2.4.16 Windows fonts definition for Vista or later version (CTEX)
+ (c:/texlive/2020/texmf-dist/tex/generic/ctex/zhwindowsfonts.tex
+File: zhwindowsfonts.tex 2019/05/29 v2.4.16 Windows font map loader for pdfTeX and DVIPDFMx (CTEX)
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{UGBK.sfd}{Unicode.sfd})))) (c:/texlive/2020/texmf-dist/tex/latex/ctex/config/ctex.cfg
+File: ctex.cfg 2019/05/29 v2.4.16 Configuration file (CTEX)
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip53
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen146
+)) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen147
+) (c:/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count193
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count194
+\leftroot@=\count195
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count196
+\DOTSCASE@=\count197
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+\big@size=\dimen148
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count198
+\c@MaxMatrixCols=\count199
+\dotsspace@=\muskip16
+\c@parentequation=\count266
+\dspbrk@lvl=\count267
+\tag@help=\toks18
+\row@=\count268
+\column@=\count269
+\maxfields@=\count270
+\andhelp@=\toks19
+\eqnshift@=\dimen149
+\alignsep@=\dimen150
+\tagshift@=\dimen151
+\tagwidth@=\dimen152
+\totwidth@=\dimen153
+\lineht@=\dimen154
+\@envbody=\toks20
+\multlinegap=\skip54
+\multlinetaggap=\skip55
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+\c@theorem=\count271
+\c@lemma=\count272
+\c@corollary=\count273
+\c@example=\count274
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/extended.enc
+File: extended.enc 2015/04/18 4.8.4
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/extended.chr
+File: extended.chr 2015/04/18 4.8.4
+) (c:/code/LaTex/linear algebra and geometry/Á∫øÊÄß‰ª£Êï∞‰∏éÂá†‰Ωï.aux)
+\openout1 = `Á∫øÊÄß‰ª£Êï∞‰∏éÂá†‰Ωï.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 90.
+LaTeX Font Info:    ... okay on input line 90.
+ (c:/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count275
+\scratchdimen=\dimen155
+\scratchbox=\box55
+\nofMPsegments=\count276
+\nofMParguments=\count277
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count278
+\MPscratchDim=\dimen156
+\MPnumerator=\count279
+\makeMPintoPDFobject=\count280
+\everyMPtoPDFconversion=\toks23
+) (c:/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 90.
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.bdg
+File: UTF8.bdg 2015/04/18 4.8.4
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.enc
+File: UTF8.enc 2015/04/18 4.8.4
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/UTF8.chr
+File: UTF8.chr 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Trying to load font information for C70+gkai on input line 93.
+ (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/c70gkai.fd
+File: c70gkai.fd 2015/04/18 4.8.4
+) (c:/texlive/2020/texmf-dist/tex/latex/cjk/texinput/UTF8/c70gkai.fdx
+File: c70gkai.fdx 2015/04/18 4.8.4
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 93.
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 93.
+ (c:/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 94.
+ (c:/texlive/2020/texmf-dist/tex/latex/ctex/fd/c70rm.fd
+File: c70rm.fd 2019/05/29 v2.4.16 Chinese font definition (CTEX)
+)
+Package CJKpunct Info: punctuation spaces for family 'gkai' do not exist. Use family 'def' instead. on input line 95.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--109
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+[1
+
+]
+Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (quanjiao) on input line 116.
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--129
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--138
+
+ []
+
+[2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 169--172
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--180
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--183
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 191--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--207
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 212--218
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--223
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 231--234
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 236--238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--241
+
+ []
+
+
+Overfull \hbox (38.72914pt too wide) in paragraph at lines 244--246
+\C70/gkai/bx/n/10.53937/4e ≈ \C70/gkai/bx/n/10.53937/67 	 \C70/gkai/m/n/10.53937/5e s \C70/gkai/bx/n/10.53937/51 · \C70/gkai/bx/n/10.53937/89 „|\C70/gkai/m/n/10.53937/30 ^^B| \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/bx/n/10.53937/7e ƒ$\OMS/cmsy/m/n/10.53937 f[][]\OML/cmm/m/it/10.53937 ; []  ; [][]\OMS/cmsy/m/n/10.53937 g$\C70/gkai/m/n/10.53937/79  \C70/gkai/bx/n/10.53937/4e : \C70/gkai/bx/n/10.53937/7e ø \C70/gkai/m/n/10.53937/60 ' \C70/gkai/bx/n/10.53937/76 ¯ \C70/gkai/bx/n/10.53937/51 s \C70/gkai/bx/n/10.53937/76 Ñ|\C70/gkai/m/n/10.53937/ff ^^L| \C70/gkai/m/n/10.53937/82 Â \C70/gkai/m/n/10.53937/5b X \C70/gkai/bx/n/10.53937/57 ( \C70/gkai/bx/n/10.53937/4e ^^M \C70/gkai/bx/n/10.53937/51 h \C70/gkai/bx/n/10.53937/4e : \C70/gkai/bx/n/10.53937/96 ˆ \C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/67 C[][]$\OML/cmm/m/it/10.53937 c[]; []  ; c[]$\C70/gkai/bx/n/10.53937/4f ^^? 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 244--246
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 251--252
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 253--254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--259
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--262
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--265
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 271--273
+
+ []
+
+
+Overfull \hbox (2.47075pt too wide) in paragraph at lines 275--281
+[] \C70/gkai/bx/n/10.53937/53 ÿ \C70/gkai/bx/n/10.53937/63 b |\C70/gkai/m/n/10.53937/ff ^^H|\C70/gkai/m/n/10.53937/62 ^^V \C70/gkai/bx/n/10.53937/66   \C70/gkai/m/n/10.53937/5c ^^D|\C70/gkai/m/n/10.53937/ff 	| $\OML/cmm/m/it/10.53937 T$\C70/gkai/bx/n/10.53937/88 ´ \C70/gkai/bx/n/10.53937/5b ö \C70/gkai/bx/n/10.53937/4e I : \C70/gkai/bx/n/10.53937/7e ø \C70/gkai/m/n/10.53937/60 ' \C70/gkai/bx/n/10.53937/76 Ñ|\C70/gkai/m/n/10.53937/ff ^^L| \C70/gkai/m/n/10.53937/82 Â |\C70/gkai/m/n/10.53937/ff ^^H|\OT1/cmr/m/n/10.53937 i|\C70/gkai/m/n/10.53937/ff 	| \C70/gkai/bx/n/10.53937/5b ˘$\OML/cmm/m/it/10.53937 T$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/5b ö \C70/gkai/bx/n/10.53937/4e I \C70/gkai/bx/n/10.53937/57 ﬂ \C70/gkai/bx/n/10.53937/4e - ^^@ \C70/gkai/bx/n/10.53937/52 ^^G$[]\OML/cmm/m/it/10.53937 ; []; T\OT1/cmr/m/n/10.53937 ([] +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 275--281
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--289
+
+ []
+
+[10]
+Overfull \hbox (1.88277pt too wide) in paragraph at lines 291--293
+\C70/gkai/bx/n/10.53937/4e ã \C70/gkai/bx/n/10.53937/5b û \C70/gkai/bx/n/10.53937/4e 
+$\OML/cmm/m/it/10.53937 A$\C70/gkai/bx/n/10.53937/66 /$\OML/cmm/m/it/10.53937 m \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 n$\C70/gkai/m/n/10.53937/77 È \C70/gkai/bx/n/10.53937/96 5|\C70/gkai/m/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/5b É \C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/7b ,$\OML/cmm/m/it/10.53937 j$\C70/gkai/bx/n/10.53937/52 ^^W \C70/gkai/bx/n/10.53937/66 / \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ$\OML/cmm/m/it/10.53937 T\OT1/cmr/m/n/10.53937 ([])$|\C70/gkai/m/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/51 v \C70/gkai/bx/n/10.53937/4e -$[][]$\C70/gkai/bx/n/10.53937/66 /$\U/msb/m/n/10.53937 R[]$\C70/gkai/bx/n/10.53937/4e - \C70/gkai/bx/n/10.53937/53 U \C70/gkai/bx/n/10.53937/4f M \C70/gkai/m/n/10.53937/77 È \C70/gkai/bx/n/10.53937/96 5$\OML/cmm/m/it/10.53937 I[]$\C70/gkai/bx/n/10.53937/76 Ñ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 291--293
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--297
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 303--305
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 318--320
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--322
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 325--327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 342--343
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 344--348
+
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 365--370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 371--373
+
+ []
+
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 381--382
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 391--394
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 397--404
+
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 417--419
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 419--422
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--430
+
+ []
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 431--433
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--441
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 443--444
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 445--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 457--459
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 460--461
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 465--467
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 468--469
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 470--471
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--474
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 483--485
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--491
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--499
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 499--501
+
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 512--514
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 515--519
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--524
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 527--530
+
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 549--552
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--566
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--581
+
+ []
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 582--588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 589--591
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 594--600
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 602--603
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--606
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--609
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 639--640
+
+ []
+
+
+Overfull \hbox (37.39804pt too wide) in paragraph at lines 641--642
+[]\C70/gkai/bx/n/10.53937/4e K \C70/gkai/bx/n/10.53937/54 ^^N \C70/gkai/m/n/10.53937/68 9 \C70/gkai/bx/n/10.53937/63 n |\C70/gkai/m/n/10.53937/30 ^^P|\C70/gkai/bx/n/10.53937/53 Ô \C70/gkai/bx/n/10.53937/90 ^^F \C70/gkai/bx/n/10.53937/77 È \C70/gkai/bx/n/10.53937/96 5 \C70/gkai/bx/n/10.53937/5b ö \C70/gkai/m/n/10.53937/74 ^^F|\C70/gkai/m/n/10.53937/30 ^^Q| \C70/gkai/bx/n/10.53937/54 å \C70/gkai/bx/n/10.53937/90 Ë \C70/gkai/bx/n/10.53937/52 ^^F \C70/gkai/bx/n/10.53937/77 È \C70/gkai/bx/n/10.53937/96 5 \C70/gkai/bx/n/10.53937/66 / \C70/gkai/bx/n/10.53937/65 π \C70/gkai/bx/n/10.53937/96 5 \C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/4e ã \C70/gkai/bx/n/10.53937/5b û|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/5f ó \C70/gkai/bx/n/10.53937/51 ˙$\OML/cmm/m/it/10.53937 B[]; B[]; B[]; B[]$\C70/gkai/bx/n/10.53937/7b I
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--642
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 648--650
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 652--653
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 655--659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--665
+
+ []
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 667--675
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 687--689
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 693--694
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 695--696
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 697--698
+
+ []
+
+[24]
+Overfull \hbox (109.97383pt too wide) in paragraph at lines 735--737
+$\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 x; y; z; \OT1/cmr/m/n/10.53937 1)$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/m/n/10.53937/6b œ \C70/gkai/bx/n/10.53937/4e ^^@ * \C70/gkai/bx/n/10.53937/97 ^ \C70/gkai/bx/n/10.53937/96 ˆ \C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/m/n/10.53937/68 ^^G \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/bx/n/10.53937/4e X \C70/gkai/m/n/10.53937/6c ’ \C70/gkai/bx/n/10.53937/5f ó \C70/gkai/bx/n/10.53937/52 0 \C70/gkai/bx/n/10.53937/4e ^^@ \C70/gkai/bx/n/10.53937/7e ƒ$\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 x; y; z\OT1/cmr/m/n/10.53937 )$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/m/n/10.53937/9f P \C70/gkai/m/n/10.53937/6b ! \C70/gkai/bx/n/10.53937/57 P \C70/gkai/m/n/10.53937/68 ^^G|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/59 Ç$\OT1/cmr/m/n/10.53937 (10\OML/cmm/m/it/10.53937 ; \OMS/cmsy/m/n/10.53937 ^^@\OT1/cmr/m/n/10.53937 6\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 14\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 2)$\C70/gkai/bx/n/10.53937/54 å$\OT1/cmr/m/n/10.53937 (15\OML/cmm/m/it/10.53937 ; \OMS/cmsy/m/n/10.53937 ^^@\OT1/cmr/m/n/10.53937 9\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 21\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 3)$\C70/gkai/bx/n/10.53937/90 ˝
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 735--737
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
+
+ []
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 748--749
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 758--759
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 762--763
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 765--770
+
+ []
+
+
+Overfull \hbox (85.27605pt too wide) in paragraph at lines 772--773
+[] \C70/gkai/bx/n/10.53937/8b æ$[][]\OML/cmm/m/it/10.53937 ; []  ; [][]$\C70/gkai/m/n/10.53937/5c ^ \C70/gkai/bx/n/10.53937/4e é$\U/msb/m/n/10.53937 R[]$|\C70/gkai/bx/n/10.53937/ff ^^L| $[][]\OML/cmm/m/it/10.53937 ; []  ; [][]$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/62 @ \C70/gkai/bx/n/10.53937/67 	 \C70/gkai/bx/n/10.53937/7e ø \C70/gkai/bx/n/10.53937/60 ' \C70/gkai/bx/n/10.53937/7e ƒ \C70/gkai/bx/n/10.53937/54 ^^H \C70/gkai/bx/n/10.53937/66 /$\U/msb/m/n/10.53937 R[]$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/5b P \C70/gkai/bx/n/10.53937/7a z \C70/gkai/bx/n/10.53937/95 Ù|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/62 ^^Q \C70/gkai/bx/n/10.53937/4e Ï \C70/gkai/bx/n/10.53937/79 $[]\OMS/cmsy/m/n/10.53937 f[][]\OML/cmm/m/it/10.53937 ; []  ; [][]\OMS/cmsy/m/n/10.53937 g$\C70/gkai/bx/n/10.53937/4e :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 772--773
+
+ []
+
+[26]
+Underfull \hbox (badness 10000) in paragraph at lines 774--776
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 779--780
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 781--782
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 783--784
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 785--786
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 788--789
+
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 802--804
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 805--807
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 810--812
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 819--821
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 822--825
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 827--828
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 829--830
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 831--832
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 833--834
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 835--842
+
+ []
+
+[29]
+Underfull \hbox (badness 10000) in paragraph at lines 850--851
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 858--860
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--862
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--865
+
+ []
+
+
+Overfull \hbox (1.10823pt too wide) in paragraph at lines 867--871
+\OT1/cmr/m/n/10.53937 a.\C70/gkai/bx/n/10.53937/82 Â$\OML/cmm/m/it/10.53937 A$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/67 – \C70/gkai/bx/n/10.53937/4e ^^@ \C70/gkai/bx/n/10.53937/88 L |\C70/gkai/bx/n/10.53937/ff ^^H|\C70/gkai/bx/n/10.53937/52 ^^W|\C70/gkai/bx/n/10.53937/ff 	| \C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/50 ^^M \C70/gkai/bx/n/10.53937/65 p \C70/gkai/bx/n/10.53937/52 † 0 \C70/gkai/bx/n/10.53937/53 Ê \C70/gkai/bx/n/10.53937/4e ^^@ \C70/gkai/bx/n/10.53937/88 L |\C70/gkai/bx/n/10.53937/ff ^^H|\C70/gkai/bx/n/10.53937/52 ^^W|\C70/gkai/bx/n/10.53937/ff 	| \C70/gkai/bx/n/10.53937/5f ó \C70/gkai/bx/n/10.53937/52 0 \C70/gkai/bx/n/10.53937/77 È \C70/gkai/bx/n/10.53937/96 5$\OML/cmm/m/it/10.53937 B$|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/52 ^^Y$[] \OML/cmm/m/it/10.53937 B \OT1/cmr/m/n/10.53937 = [] \OML/cmm/m/it/10.53937 A$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 867--871
+
+ []
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 872--873
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 874--875
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 876--877
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 885--888
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 889--891
+
+ []
+
+[31]
+Underfull \hbox (badness 10000) in paragraph at lines 916--918
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 920--921
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 925--931
+
+ []
+
+[32]
+Underfull \hbox (badness 10000) in paragraph at lines 934--936
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 939--941
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 941--943
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 945--946
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 954--958
+
+ []
+
+[33]
+Underfull \hbox (badness 10000) in paragraph at lines 959--960
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 961--962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 963--964
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 994--1000
+
+ []
+
+[34]
+Underfull \hbox (badness 10000) in paragraph at lines 1001--1002
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1015--1017
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1047--1049
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1051--1052
+
+ []
+
+[35]
+Underfull \hbox (badness 10000) in paragraph at lines 1053--1060
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1062--1063
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1083--1085
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1087--1089
+
+ []
+
+[36]
+Underfull \hbox (badness 10000) in paragraph at lines 1097--1100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1102--1103
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1104--1105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1106--1108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1108--1110
+
+ []
+
+[37]
+Underfull \hbox (badness 10000) in paragraph at lines 1118--1119
+
+ []
+
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1139--1141
+
+ []
+
+[39]
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1166--1168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1172--1174
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1181--1183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1186--1190
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 1200--1202
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1213--1214
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 1221--1223
+
+ []
+
+
+Overfull \hbox (17.89485pt too wide) in paragraph at lines 1234--1236
+\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/4e ˚ \C70/gkai/m/n/10.53937/61 ^^O \C70/gkai/bx/n/10.53937/4e $ * ^^N \C70/gkai/bx/n/10.53937/53 ü \C70/gkai/bx/n/10.53937/70 π$\OML/cmm/m/it/10.53937 O$\C70/gkai/bx/n/10.53937/4e ^^@ \C70/gkai/m/n/10.53937/8d w \C70/gkai/bx/n/10.53937/51 ≥ \C70/gkai/bx/n/10.53937/5b ö \C70/gkai/bx/n/10.53937/4e ^^@ * \C70/gkai/bx/n/10.53937/5e s \C70/gkai/bx/n/10.53937/97 b|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/79  \C70/gkai/bx/n/10.53937/4e : \C70/gkai/bx/n/10.53937/57 P[][] \C70/gkai/bx/n/10.53937/68 ^^G[][] \C70/gkai/bx/n/10.53937/97 b[][]|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/52 ^^F + \C70/gkai/bx/n/10.53937/8b ∞ \C70/gkai/bx/n/10.53937/4e :$\OML/cmm/m/it/10.53937 Oxy; Oyz; Ozx$\OT1/cmr/m/n/10.53937 . 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1242--1245
+
+ []
+
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 1254--1257
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1260--1262
+
+ []
+
+
+Overfull \hbox (18.55286pt too wide) in paragraph at lines 1286--1300
+\C70/gkai/m/n/10.53937/6b ‘ \C70/gkai/bx/n/10.53937/59 Ç\OT1/cmr/m/n/10.53937 :$[] []$\C70/gkai/bx/n/10.53937/54 å$[] []$\C70/gkai/bx/n/10.53937/66 / \C70/gkai/bx/n/10.53937/54 ^^L \C70/gkai/bx/n/10.53937/53 ˜ \C70/gkai/bx/n/10.53937/76 Ñ\OT1/cmr/m/n/10.53937 ,\C70/gkai/bx/n/10.53937/90 £ \C70/gkai/bx/n/10.53937/4e H \C70/gkai/bx/n/10.53937/53 Ô \C70/gkai/bx/n/10.53937/4e Â \C70/gkai/bx/n/10.53937/8b Ù \C70/gkai/bx/n/10.53937/66 ^^N\OT1/cmr/m/n/10.53937 ,\C70/gkai/bx/n/10.53937/70 π$\OML/cmm/m/it/10.53937 P$\C70/gkai/bx/n/10.53937/4e ^^N \C70/gkai/bx/n/10.53937/70 π$\OML/cmm/m/it/10.53937 A$\C70/gkai/bx/n/10.53937/57 (
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1286--1300
+
+ []
+
+[43]
+Overfull \hbox (0.8733pt too wide) detected at line 1330
+\OML/cmm/m/it/10.53937 m[] \OT1/cmr/m/n/10.53937 = []\OML/cmm/m/it/10.53937 ; m[] \OT1/cmr/m/n/10.53937 = []\OML/cmm/m/it/10.53937 ; m[] \OT1/cmr/m/n/10.53937 = []
+ []
+
+[44]
+Underfull \hbox (badness 10000) in paragraph at lines 1369--1370
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1371--1373
+
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 1379--1381
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1389--1393
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1399--1400
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1401--1402
+
+ []
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1405
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1410--1412
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1427--1429
+
+ []
+
+
+Overfull \hbox (24.11658pt too wide) in paragraph at lines 1437--1439
+[]\C70/gkai/bx/n/10.53937/4e $ * \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ$[]\OML/cmm/m/it/10.53937 ; []$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/bx/n/10.53937/79 Ô$[] \OMS/cmsy/m/n/10.53937 ^^B []$\C70/gkai/bx/n/10.53937/4e : ^^@ * \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ\OT1/cmr/m/n/10.53937 ,\C70/gkai/bx/n/10.53937/51 v \C70/gkai/bx/n/10.53937/65 π \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/4e ^^N$[]\OML/cmm/m/it/10.53937 ; []$\C70/gkai/bx/n/10.53937/90 ˝ \C70/gkai/bx/n/10.53937/57 Ç \C70/gkai/bx/n/10.53937/76 Ù\OT1/cmr/m/n/10.53937 ,\C70/gkai/bx/n/10.53937/4e ^^T \C70/gkai/bx/n/10.53937/4f ^^?$[]\OML/cmm/m/it/10.53937 ; []$\C70/gkai/bx/n/10.53937/4e ^^N$[] \OMS/cmsy/m/n/10.53937 ^^B
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1437--1439
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1446--1451
+
+ []
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 1452--1454
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1470--1472
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1473--1479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1484--1485
+
+ []
+
+
+Overfull \hbox (27.5908pt too wide) detected at line 1509
+[][]
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 1509--1512
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1517--1518
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1523--1524
+
+ []
+
+
+Overfull \hbox (46.16629pt too wide) in paragraph at lines 1528--1531
+\C70/gkai/bx/n/10.53937/4e :$[]\OML/cmm/m/it/10.53937 ; []; []$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/5b ˘ \C70/gkai/bx/n/10.53937/50 v \C70/gkai/bx/n/10.53937/57 ˙\OT1/cmr/m/n/10.53937 .\C70/gkai/bx/n/10.53937/4e Œ \C70/gkai/bx/n/10.53937/77 È \C70/gkai/bx/n/10.53937/96 5 \C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/89 “ \C70/gkai/bx/n/10.53937/5e ¶\OT1/cmr/m/n/10.53937 ,\C70/gkai/bx/n/10.53937/59 Ç \C70/gkai/bx/n/10.53937/67 ú$[]\OML/cmm/m/it/10.53937 ; []; []$\C70/gkai/bx/n/10.53937/66 / \C70/gkai/bx/n/10.53937/4e 	 \C70/gkai/bx/n/10.53937/96 6 \C70/gkai/bx/n/10.53937/77 È \C70/gkai/bx/n/10.53937/96 5$\OML/cmm/m/it/10.53937 A$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/52 ^^W \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ\OT1/cmr/m/n/10.53937 ,\C70/gkai/bx/n/10.53937/90 £ \C70/gkai/bx/n/10.53937/4e H$[][]\OML/cmm/m/it/10.53937 ; [][]; [][]$\C70/gkai/bx/n/10.53937/5b ˘
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1528--1531
+
+ []
+
+[49]
+Underfull \hbox (badness 10000) in paragraph at lines 1550--1551
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1580--1582
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1589--1591
+
+ []
+
+[50]
+Underfull \hbox (badness 10000) in paragraph at lines 1667--1669
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1675--1676
+
+ []
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 1676--1678
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1681--1684
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1686--1688
+
+ []
+
+
+Overfull \hbox (38.05324pt too wide) in paragraph at lines 1722--1723
+[]\C70/gkai/bx/n/10.53937/57 ( \C70/gkai/bx/n/10.53937/76 Ù \C70/gkai/bx/n/10.53937/89 “ \C70/gkai/bx/n/10.53937/57 P \C70/gkai/bx/n/10.53937/68 ^^G \C70/gkai/bx/n/10.53937/7c ˚ \C70/gkai/bx/n/10.53937/4e -$\OT1/cmr/m/n/10.53937 [\OML/cmm/m/it/10.53937 O\OT1/cmr/m/n/10.53937 ; []\OML/cmm/m/it/10.53937 ; []; []\OT1/cmr/m/n/10.53937 ]$,\C70/gkai/bx/n/10.53937/8b ∞$[] \OT1/cmr/m/n/10.53937 = (\OML/cmm/m/it/10.53937 A; B; C\OT1/cmr/m/n/10.53937 )$.\C70/gkai/bx/n/10.53937/5b ˘ \C70/gkai/bx/n/10.53937/4e é \C70/gkai/bx/n/10.53937/5e s \C70/gkai/bx/n/10.53937/97 b \C70/gkai/bx/n/10.53937/4e 
+ ˚ \C70/gkai/m/n/10.53937/61 ^^O \C70/gkai/bx/n/10.53937/70 π\OT1/cmr/m/n/10.53937 P,\C70/gkai/bx/n/10.53937/90 ˝ \C70/gkai/bx/n/10.53937/67 	$[]\OMS/cmsy/m/n/10.53937 ?[]$\OT1/cmr/m/n/10.53937 ,\C70/gkai/bx/n/10.53937/75 1
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1722--1723
+
+ []
+
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 1723--1725
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1732--1734
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1741--1742
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1743--1744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1745--1747
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1749--1752
+
+ []
+
+[53]
+Overfull \hbox (15.35794pt too wide) in paragraph at lines 1753--1768
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1753--1768
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1776--1778
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1780--1783
+
+ []
+
+[54] [55]
+Underfull \hbox (badness 10000) in paragraph at lines 1811--1814
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1814--1816
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1823--1824
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1831--1832
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1834--1836
+
+ []
+
+[56]
+Underfull \hbox (badness 10000) in paragraph at lines 1837--1839
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1840--1842
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1851--1856
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1881--1883
+
+ []
+
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 1884--1886
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1887--1891
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1899--1904
+
+ []
+
+[58]
+Underfull \hbox (badness 10000) in paragraph at lines 1916--1918
+
+ []
+
+
+Overfull \hbox (22.9611pt too wide) in paragraph at lines 1938--1940
+[]\C70/gkai/bx/n/10.53937/8b ∞ \C70/gkai/bx/n/10.53937/70 π \C70/gkai/bx/n/10.53937/4e :$\OML/cmm/m/it/10.53937 P\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 x; y; z\OT1/cmr/m/n/10.53937 )$|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/76 Ù \C70/gkai/bx/n/10.53937/7e ø$\OML/cmm/m/it/10.53937 l$\C70/gkai/bx/n/10.53937/65 π \C70/gkai/bx/n/10.53937/54 ^^Q ^^Q \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/bx/n/10.53937/4e :$[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 X; Y; Z\OT1/cmr/m/n/10.53937 )$ \C70/gkai/bx/n/10.53937/52 ^^Y \C70/gkai/bx/n/10.53937/53 Ô \C70/gkai/bx/n/10.53937/4e ˚ \C70/gkai/bx/n/10.53937/53 ÷$\OML/cmm/m/it/10.53937 l$\C70/gkai/bx/n/10.53937/4e 
+ ^^@ \C70/gkai/bx/n/10.53937/70 π$\OML/cmm/m/it/10.53937 P[]\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 x[]; y[]; z[]\OT1/cmr/m/n/10.53937 )$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1938--1940
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1945
+
+ []
+
+[59]
+Underfull \hbox (badness 10000) in paragraph at lines 1957--1958
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1960--1961
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1965--1966
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1968--1972
+
+ []
+
+[60]
+Underfull \hbox (badness 10000) in paragraph at lines 1978--1980
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1986--1988
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1991--1992
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1998--2001
+
+ []
+
+[61]
+Underfull \hbox (badness 10000) in paragraph at lines 2005--2007
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2024--2026
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2027--2028
+
+ []
+
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 2038--2040
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2053--2054
+
+ []
+
+
+Overfull \hbox (38.65788pt too wide) detected at line 2073
+[][]
+ []
+
+[63]
+Underfull \hbox (badness 10000) in paragraph at lines 2075--2076
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2080--2082
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2083--2085
+
+ []
+
+
+Overfull \hbox (10.73068pt too wide) in paragraph at lines 2088--2090
+\C70/gkai/bx/n/10.53937/54 å \C70/gkai/bx/n/10.53937/4e :$\OT1/cmr/m/n/10.53937 1$|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/60 p \C70/gkai/bx/n/10.53937/59 } \C70/gkai/bx/n/10.53937/4e ^^N$\OML/cmm/m/it/10.53937 ^^N[]$\C70/gkai/bx/n/10.53937/4e ^^@ \C70/gkai/bx/n/10.53937/81 Ù|\C70/gkai/bx/n/10.53937/ff ^^[| \C70/gkai/bx/n/10.53937/59 Ç \C70/gkai/bx/n/10.53937/67 ú$\OML/cmm/m/it/10.53937 i \OMS/cmsy/m/n/10.53937 6\OT1/cmr/m/n/10.53937 = \OML/cmm/m/it/10.53937 m$|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/90 £ \C70/gkai/bx/n/10.53937/4e H 	 * X \C70/gkai/bx/n/10.53937/79 Ô \C70/gkai/bx/n/10.53937/98 y \C70/gkai/bx/n/10.53937/80 Ø \C70/gkai/bx/n/10.53937/5b ö \C70/gkai/bx/n/10.53937/90 ˝ \C70/gkai/bx/n/10.53937/4e : \C70/gkai/bx/n/10.53937/96 ˆ|\C70/gkai/bx/n/10.53937/ff ^^L||\C70/gkai/m/n/10.53937/30 ^^P|$\OT1/cmr/m/n/10.53937 (1\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 2\OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 3)$\C70/gkai/bx/n/10.53937/4e -
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2088--2090
+
+ []
+
+[64]
+Underfull \hbox (badness 10000) in paragraph at lines 2094--2095
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2095--2097
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2098--2100
+
+ []
+
+
+Overfull \hbox (14.31712pt too wide) in paragraph at lines 2115--2116
+[]\C70/gkai/bx/n/10.53937/56 ‡ \C70/gkai/bx/n/10.53937/6b d \C70/gkai/bx/n/10.53937/62 ^^Q \C70/gkai/bx/n/10.53937/4e Ï \C70/gkai/bx/n/10.53937/67 	 |\C70/gkai/bx/n/10.53937/ff ^^H|\C70/gkai/bx/n/10.53937/53 Ô \C70/gkai/bx/n/10.53937/4e Â \C70/gkai/bx/n/10.53937/6c Ë \C70/gkai/m/n/10.53937/61 ^^O \C70/gkai/bx/n/10.53937/4e ^^@  \C70/gkai/bx/n/10.53937/8f Ÿ \C70/gkai/bx/n/10.53937/5e v \C70/gkai/bx/n/10.53937/4e ^^M \C70/gkai/bx/n/10.53937/7b I \C70/gkai/bx/n/10.53937/4e é\OT1/cmr/m/n/10.53937 (3)\C70/gkai/bx/n/10.53937/5f ^^O \C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/5d Ê \C70/gkai/bx/n/10.53937/5f ^^O|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/57 ( \C70/gkai/bx/n/10.53937/8f Ÿ \C70/gkai/bx/n/10.53937/91 Ã \C70/gkai/bx/n/10.53937/62 ^^Q \C70/gkai/bx/n/10.53937/4e Ï \C70/gkai/bx/n/10.53937/62 ä$\OML/cmm/m/it/10.53937 ^^O[]$\C70/gkai/bx/n/10.53937/63 b
+ []
+
+[65]
+Underfull \hbox (badness 10000) in paragraph at lines 2159--2161
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2162--2163
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2164--2165
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2166--2167
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2168--2169
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2176--2177
+
+ []
+
+[66]
+Underfull \hbox (badness 10000) in paragraph at lines 2188--2189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2190--2191
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2201--2203
+
+ []
+
+[67]
+Underfull \hbox (badness 10000) in paragraph at lines 2221--2222
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2223--2224
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2225--2226
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2227--2228
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2229--2230
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2231--2232
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2233--2234
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2235--2236
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2237--2238
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2242--2245
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2249--2250
+
+ []
+
+[68]
+Overfull \hbox (24.86047pt too wide) in paragraph at lines 2251--2252
+\C70/gkai/bx/n/10.53937/4e ^^@ * \C70/gkai/bx/n/10.53937/5b P \C70/gkai/bx/n/10.53937/7a z \C70/gkai/bx/n/10.53937/95 Ù$\OML/cmm/m/it/10.53937 H$|\C70/gkai/bx/n/10.53937/ff ^^L| $\OML/cmm/m/it/10.53937 H$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/75 ^^_ \C70/gkai/bx/n/10.53937/62 ^^P \C70/gkai/bx/n/10.53937/96 ∆ \C70/gkai/bx/n/10.53937/66 / \C70/gkai/bx/n/10.53937/96 ∆ \C70/gkai/bx/n/10.53937/54 ^^H$\OMS/cmsy/m/n/10.53937 f[][]\OML/cmm/m/it/10.53937 ; []  ; [][]\OMS/cmsy/m/n/10.53937 g 2 \OML/cmm/m/it/10.53937 H$|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/m/n/10.53937/6e · \C70/gkai/m/n/10.53937/8d ≥$\OML/cmm/m/it/10.53937 H \OT1/cmr/m/n/10.53937 = []\OMS/cmsy/m/n/10.53937 f[][]\OML/cmm/m/it/10.53937 ; []  ; [][]\OMS/cmsy/m/n/10.53937 g$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2251--2252
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2253--2254
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2261--2262
+
+ []
+
+
+Overfull \hbox (30.34177pt too wide) in paragraph at lines 2265--2266
+[] \C70/gkai/bx/n/10.53937/77 È \C70/gkai/bx/n/10.53937/96 5$\OML/cmm/m/it/10.53937 A$\C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/52 ^^W \C70/gkai/bx/n/10.53937/7a z \C70/gkai/bx/n/10.53937/95 Ù \C70/gkai/bx/n/10.53937/66 /$\OML/cmm/m/it/10.53937 A$\C70/gkai/bx/n/10.53937/54 ^^D \C70/gkai/bx/n/10.53937/52 ^^W \C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/7e ø \C70/gkai/bx/n/10.53937/60 ' \C70/gkai/bx/n/10.53937/7e ƒ \C70/gkai/bx/n/10.53937/54 ^^H \C70/gkai/bx/n/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/96 ∆ \C70/gkai/bx/n/10.53937/54 ^^H|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/8b ∞ \C70/gkai/bx/n/10.53937/4f \$[] \OML/cmm/m/it/10.53937 A$|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/82 Â$\OML/cmm/m/it/10.53937 A \OT1/cmr/m/n/10.53937 = []$|\C70/gkai/bx/n/10.53937/ff ^^L|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2268--2269
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2271--2274
+
+ []
+
+[69]
+Underfull \hbox (badness 10000) in paragraph at lines 2275--2276
+
+ []
+
+
+LaTeX Font Warning: Font shape `C70/gkai/m/it' undefined
+(Font)              using `C70/gkai/m/n' instead on input line 2278.
+
+LaTeX Font Info:    Trying to load font information for C70+zhhei on input line 2281.
+(c:/texlive/2020/texmf-dist/tex/latex/zhmetrics/c70zhhei.fd
+File: c70zhhei.fd 2009/09/23 4.8.2
+)
+LaTeX Font Info:    Trying to load font information for C70+zhkai on input line 2282.
+ (c:/texlive/2020/texmf-dist/tex/latex/zhmetrics/c70zhkai.fd
+File: c70zhkai.fd 2009/09/23 4.8.2
+)
+Underfull \hbox (badness 10000) in paragraph at lines 2286--2287
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2289--2292
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2294--2297
+
+ []
+
+[70]
+Underfull \hbox (badness 10000) in paragraph at lines 2298--2299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2312--2314
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2316--2318
+
+ []
+
+
+Overfull \hbox (5.13078pt too wide) in paragraph at lines 2320--2321
+[]\C70/gkai/m/it/10.53937/4e ‰$\OMS/cmsy/m/n/10.53937 B \OT1/cmr/m/n/10.53937 = \OMS/cmsy/m/n/10.53937 f[]\OML/cmm/m/it/10.53937 ; []  ; []\OMS/cmsy/m/n/10.53937 g$\C70/gkai/m/it/10.53937/4e : \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/bx/n/10.53937/7a z \C70/gkai/bx/n/10.53937/95 Ù$\OML/cmm/m/it/10.53937 V$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/4e ^^@ * \C70/gkai/m/it/10.53937/57 ˙|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/52 ^^Y \C70/gkai/m/it/10.53937/57 P \C70/gkai/bx/n/10.53937/68 ^^G \C70/gkai/m/it/10.53937/66   \C70/gkai/m/it/10.53937/5c ^^D \C70/gkai/m/it/10.53937/66   \C70/gkai/m/it/10.53937/5c ^^D$[] \OMS/cmsy/m/n/10.53937 ! \OT1/cmr/m/n/10.53937 [[]][]$\C70/gkai/m/it/10.53937/66 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2320--2321
+
+ []
+
+[71]
+Overfull \hbox (32.07518pt too wide) in paragraph at lines 2322--2324
+[]\C70/gkai/m/it/10.53937/4e ^^@ \C70/gkai/bx/n/10.53937/82 , \C70/gkai/bx/n/10.53937/67 e \C70/gkai/m/it/10.53937/8b Ù \C70/gkai/bx/n/10.53937/8f Ÿ \C70/gkai/bx/n/10.53937/68 7 \C70/gkai/m/it/10.53937/4e ^^@ * \C70/gkai/bx/n/10.53937/75 1 \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/bx/n/10.53937/7a z \C70/gkai/bx/n/10.53937/95 Ù$\OML/cmm/m/it/10.53937 V$\C70/gkai/m/it/10.53937/66   \C70/gkai/m/it/10.53937/4e 
+ \C70/gkai/bx/n/10.53937/52 0$\OML/cmm/m/it/10.53937 W$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/4e ^^@ \C70/gkai/m/it/10.53937/5b ˘ \C70/gkai/m/it/10.53937/4e ^^@ \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/7e ø \C70/gkai/bx/n/10.53937/60 ' \C70/gkai/bx/n/10.53937/53 ÿ \C70/gkai/bx/n/10.53937/63 b \C70/gkai/bx/n/10.53937/79  \C70/gkai/m/it/10.53937/4e : Œ$\OML/cmm/m/it/10.53937 V$\C70/gkai/bx/n/10.53937/52 0$\OML/cmm/m/it/10.53937 W$\C70/gkai/m/it/10.53937/76 Ñ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2322--2324
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2326--2327
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2329--2330
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2332--2333
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2334--2335
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2336--2337
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2342--2343
+
+ []
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 2345--2346
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2348--2349
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2352--2353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2369--2370
+
+ []
+
+[73]
+Underfull \hbox (badness 10000) in paragraph at lines 2376--2383
+
+ []
+
+[74] [75]
+Underfull \hbox (badness 10000) in paragraph at lines 2505--2507
+
+ []
+
+
+Overfull \hbox (3.16524pt too wide) in paragraph at lines 2511--2514
+\C70/gkai/bx/n/10.53937/53 Ê \C70/gkai/m/it/10.53937/4e ^^@ \C70/gkai/m/it/10.53937/79 Õ \C70/gkai/m/it/10.53937/66 Ù \C70/gkai/bx/n/10.53937/5f Î \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/8b ° \C70/gkai/bx/n/10.53937/7b ó \C70/gkai/m/it/10.53937/65 π \C70/gkai/m/it/10.53937/6c ’ \C70/gkai/m/it/10.53937/66 / \C70/gkai/bx/n/10.53937/62 ä$\OMS/cmsy/m/n/10.53937 B$\OT1/cmr/m/n/10.53937 ,$\OMS/cmsy/m/n/10.53937 C$\C70/gkai/m/it/10.53937/4e - \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/57 ˙ \C70/gkai/bx/n/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/bx/n/10.53937/90 ˝ \C70/gkai/m/it/10.53937/65 > \C70/gkai/m/it/10.53937/57 ( \C70/gkai/m/it/10.53937/4e ^^@ * \C70/gkai/m/it/10.53937/77 È \C70/gkai/m/it/10.53937/96 5 \C70/gkai/m/it/10.53937/4e -|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/71 6 \C70/gkai/bx/n/10.53937/54 ^^N \C70/gkai/m/it/10.53937/5c ^^F \C70/gkai/m/it/10.53937/57 ˙$\OMS/cmsy/m/n/10.53937 C$\C70/gkai/m/it/10.53937/5b ˘
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2511--2514
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2526--2529
+
+ []
+
+[76]
+Underfull \hbox (badness 10000) in paragraph at lines 2530--2531
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2541--2542
+
+ []
+
+
+Overfull \hbox (8.155pt too wide) in paragraph at lines 2543--2546
+[]\C70/zhkai/bx/n/10.53937/60 ^^][][] \C70/zhkai/m/n/10.53937/8d Ô[][]\OT1/cmr/bx/n/10.53937 (2)\C70/zhkai/bx/n/10.53937/52 )[][] \C70/zhkai/bx/n/10.53937/75 ([][] \C70/zhkai/bx/n/10.53937/53 Ô[][] \C70/zhkai/bx/n/10.53937/90 ^^F[][] \C70/zhkai/bx/n/10.53937/77 È[][] \C70/zhkai/bx/n/10.53937/96 5[][] \C70/zhkai/bx/n/10.53937/4e X[][] \C70/zhkai/bx/n/10.53937/79 Ô[][] \C70/zhkai/bx/n/10.53937/76 Ñ[][] \C70/zhkai/bx/n/10.53937/60 '[][] \C70/zhkai/m/n/10.53937/8d ([][] \C70/zhkai/m/n/10.53937/62 ^^Q \C70/zhkai/bx/n/10.53937/4e Ï \C70/zhkai/m/n/10.53937/50 G \C70/zhkai/m/n/10.53937/8b æ$\OML/cmm/m/it/10.53937 A$\C70/zhkai/bx/n/10.53937/76 Ñ \C70/zhkai/bx/n/10.53937/79 È \C70/zhkai/bx/n/10.53937/4e :$\OML/cmm/m/it/10.53937 r[]$\OT1/cmr/m/n/10.53937 ,$\OML/cmm/m/it/10.53937 B$\C70/zhkai/bx/n/10.53937/76 Ñ \C70/zhkai/bx/n/10.53937/79 È \C70/zhkai/bx/n/10.53937/4e :$\OML/cmm/m/it/10.53937 r[]$\OT1/cmr/m/n/10.53937 ,$\OML/cmm/m/it/10.53937 AB$\C70/zhkai/bx/n/10.53937/76 Ñ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2549--2554
+
+ []
+
+[77]
+Underfull \hbox (badness 10000) in paragraph at lines 2572--2575
+
+ []
+
+[78]
+Underfull \hbox (badness 10000) in paragraph at lines 2580--2581
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2582--2583
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2584--2585
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2589--2591
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2594--2595
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2598--2599
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2600--2601
+
+ []
+
+
+Overfull \hbox (12.58292pt too wide) in paragraph at lines 2604--2605
+[]\C70/gkai/bx/n/10.53937/82 Â$\OML/cmm/m/it/10.53937 ^^U[]; []  ; ^^U[]$\C70/gkai/m/it/10.53937/4e : \C70/gkai/m/it/10.53937/77 È \C70/gkai/m/it/10.53937/96 5$\OML/cmm/m/it/10.53937 n \OMS/cmsy/m/n/10.53937 ^^B \OML/cmm/m/it/10.53937 n$\C70/gkai/m/it/10.53937/77 È \C70/gkai/m/it/10.53937/96 5$\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/76 ¯ \C70/gkai/bx/n/10.53937/5f ^^B \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/72 y \C70/gkai/bx/n/10.53937/5f Å \C70/gkai/m/it/10.53937/50 <|\C70/gkai/bx/n/10.53937/ff ^^L| $[][]\OML/cmm/m/it/10.53937 ; []  ; [][]$\C70/gkai/m/it/10.53937/66 / \C70/gkai/m/it/10.53937/4e ^^N$\OML/cmm/m/it/10.53937 ^^U[]; []  ; ^^U[]$\C70/gkai/m/it/10.53937/5b ˘
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2604--2605
+
+ []
+
+[79]
+Underfull \hbox (badness 10000) in paragraph at lines 2609--2610
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2611--2612
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2613--2614
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2616--2617
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2619--2620
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2621--2622
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2624--2625
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2627--2628
+
+ []
+
+[80]
+Underfull \hbox (badness 10000) in paragraph at lines 2634--2636
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2637--2638
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2641--2642
+
+ []
+
+
+Overfull \hbox (6.0278pt too wide) in paragraph at lines 2653--2655
+\C70/gkai/m/it/10.53937/4e ã \C70/gkai/m/it/10.53937/5b û \C70/gkai/m/it/10.53937/4e 
+|\C70/gkai/bx/n/10.53937/ff ^^L| $\OML/cmm/m/it/10.53937 A \OT1/cmr/m/n/10.53937 = \OML/cmm/m/it/10.53937 PDP[]$|\C70/gkai/bx/n/10.53937/ff ^^L| $\OML/cmm/m/it/10.53937 D$\C70/gkai/m/it/10.53937/4e : \C70/gkai/m/it/10.53937/5b ˘ \C70/gkai/m/it/10.53937/89 “ \C70/gkai/m/it/10.53937/77 È \C70/gkai/m/it/10.53937/96 5 \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/51 E \C70/gkai/m/it/10.53937/52 ^^F \C70/gkai/bx/n/10.53937/5f ≈ \C70/gkai/m/it/10.53937/89 Å \C70/gkai/m/it/10.53937/67 a \C70/gkai/m/it/10.53937/4e ˆ \C70/gkai/m/it/10.53937/66 /$\OML/cmm/m/it/10.53937 P$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/52 ^^W \C70/gkai/m/it/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/m/it/10.53937/4e :$\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/76 Ñ$\OML/cmm/m/it/10.53937 n$\C70/gkai/m/it/10.53937/4e *
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2653--2655
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2657--2658
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2660--2661
+
+ []
+
+[81]
+Underfull \hbox (badness 10000) in paragraph at lines 2662--2665
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2666--2667
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2671--2672
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2673--2674
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2675--2678
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2679--2680
+
+ []
+
+[82]
+Underfull \hbox (badness 10000) in paragraph at lines 2688--2689
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2690--2691
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2698--2700
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2712--2713
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2714--2715
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2717--2718
+
+ []
+
+[83]
+Underfull \hbox (badness 10000) in paragraph at lines 2722--2723
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2724--2726
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2728--2729
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2730--2732
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2733--2734
+
+ []
+
+
+Overfull \hbox (1.50803pt too wide) in paragraph at lines 2736--2737
+\C70/gkai/m/it/10.53937/67 ú$\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/76 ¯ \C70/gkai/bx/n/10.53937/4f < \C70/gkai/m/it/10.53937/4e é$\OML/cmm/m/it/10.53937 C$|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/m/it/10.53937/53 s \C70/gkai/m/it/10.53937/67 	$\OML/cmm/m/it/10.53937 A \OT1/cmr/m/n/10.53937 = \OML/cmm/m/it/10.53937 PCP[]$|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/m/it/10.53937/4e ^^T \C70/gkai/m/it/10.53937/67 	$\OMS/cmsy/m/n/10.53937 B$\C70/gkai/m/it/10.53937/75 1$\OML/cmm/m/it/10.53937 P$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/52 ^^W \C70/gkai/m/it/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/m/it/10.53937/7e ƒ \C70/gkai/bx/n/10.53937/62 ^^P|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/m/it/10.53937/52 ^^Y$\OML/cmm/m/it/10.53937 C$\C70/gkai/m/it/10.53937/66 / \C70/gkai/m/it/10.53937/53 ÿ \C70/gkai/bx/n/10.53937/63 b$[] \OMS/cmsy/m/n/10.53937 !
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2736--2737
+
+ []
+
+[84]
+Underfull \hbox (badness 10000) in paragraph at lines 2738--2739
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2740--2741
+
+ []
+
+
+Overfull \hbox (28.40677pt too wide) in paragraph at lines 2764--2765
+[]\C70/gkai/m/it/10.53937/50 G \C70/gkai/m/it/10.53937/8b æ$\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/4e :$\OT1/cmr/m/n/10.53937 2 \OMS/cmsy/m/n/10.53937 ^^B \OT1/cmr/m/n/10.53937 2$\C70/gkai/m/it/10.53937/77 È \C70/gkai/m/it/10.53937/96 5|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/m/it/10.53937/4e ^^T \C70/gkai/bx/n/10.53937/51 v \C70/gkai/bx/n/10.53937/72 y \C70/gkai/bx/n/10.53937/5f Å \C70/gkai/m/it/10.53937/50 < \C70/gkai/m/it/10.53937/4e :$\OML/cmm/m/it/10.53937 a \OMS/cmsy/m/n/10.53937 ^^@ \OML/cmm/m/it/10.53937 bi$|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/bx/n/10.53937/72 y \C70/gkai/bx/n/10.53937/5f Å \C70/gkai/m/it/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ \C70/gkai/m/it/10.53937/4e :$[]$\C70/gkai/m/it/10.53937/52 ^^Y \C70/gkai/m/it/10.53937/4e ‰$\OML/cmm/m/it/10.53937 C \OT1/cmr/m/n/10.53937 = [] \OML/cmm/m/it/10.53937 ; P \OT1/cmr/m/n/10.53937 =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2767--2768
+
+ []
+
+[85]
+Underfull \hbox (badness 10000) in paragraph at lines 2770--2772
+
+ []
+
+
+Overfull \hbox (31.48695pt too wide) in paragraph at lines 2773--2774
+[]\C70/gkai/m/it/10.53937/57 ( \C70/gkai/bx/n/10.53937/8f Ÿ \C70/gkai/m/it/10.53937/4e ^^@ \C70/gkai/m/it/10.53937/8b ≤ \C70/gkai/m/it/10.53937/4e -\OT1/cmr/m/n/10.53937 ,\C70/gkai/bx/n/10.53937/62 ^^Q \C70/gkai/m/it/10.53937/4e Ï \C70/gkai/m/it/10.53937/50 G \C70/gkai/m/it/10.53937/5b ö \C70/gkai/m/it/10.53937/77 È \C70/gkai/m/it/10.53937/96 5$\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/53 Ô \C70/gkai/m/it/10.53937/5b ˘ \C70/gkai/m/it/10.53937/89 “ \C70/gkai/m/it/10.53937/53 ^^V\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/67 	$\OML/cmm/m/it/10.53937 n$\C70/gkai/m/it/10.53937/4e * \C70/gkai/m/it/10.53937/7e ø \C70/gkai/bx/n/10.53937/60 ' \C70/gkai/m/it/10.53937/65 ‡ \C70/gkai/bx/n/10.53937/51 s \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/72 y \C70/gkai/bx/n/10.53937/5f Å \C70/gkai/m/it/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ$[][]\OML/cmm/m/it/10.53937 ; []  ; [][]$\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/52 ^^F
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2773--2774
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2780--2781
+
+ []
+
+
+Overfull \hbox (1.04254pt too wide) in paragraph at lines 2792--2793
+[] \C70/gkai/m/it/10.53937/5b ˘ \C70/gkai/m/it/10.53937/4e é ˚ \C70/gkai/m/n/10.53937/61 ^^O \C70/gkai/m/it/10.53937/4e ^^@ * \C70/gkai/m/it/10.53937/52 ^^] \C70/gkai/m/it/10.53937/59 À \C70/gkai/m/it/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/91 œ\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/53 ü \C70/gkai/bx/n/10.53937/70 π \C70/gkai/m/it/10.53937/57 ( \C70/gkai/m/it/10.53937/4e ^^@ \C70/gkai/m/it/10.53937/90 Ë \C70/gkai/m/it/10.53937/52 ^^F \C70/gkai/m/it/10.53937/65 π \C70/gkai/m/it/10.53937/54 ^^Q 8 \C70/gkai/bx/n/10.53937/5f ^^U \C70/gkai/m/it/10.53937/89 „\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/57 ( \C70/gkai/m/it/10.53937/4e ^^@ \C70/gkai/m/it/10.53937/90 Ë \C70/gkai/m/it/10.53937/52 ^^F \C70/gkai/m/it/10.53937/65 π \C70/gkai/m/it/10.53937/54 ^^Q \C70/gkai/bx/n/10.53937/63 í \C70/gkai/m/it/10.53937/65 • \C70/gkai/m/it/10.53937/89 „\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/4e ^^@
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2792--2793
+
+ []
+
+[86]
+Underfull \hbox (badness 10000) in paragraph at lines 2799--2800
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2800--2802
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2804--2805
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2809--2810
+
+ []
+
+[87]
+Underfull \hbox (badness 10000) in paragraph at lines 2818--2820
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2821--2822
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2838--2840
+
+ []
+
+[88] [89]
+Underfull \hbox (badness 10000) in paragraph at lines 2847--2848
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2855--2856
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2861--2862
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2870--2871
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2879--2880
+
+ []
+
+[90]
+Underfull \hbox (badness 10000) in paragraph at lines 2889--2890
+
+ []
+
+
+Overfull \hbox (18.9824pt too wide) in paragraph at lines 2891--2892
+[]\C70/gkai/bx/n/10.53937/62 ^^Q \C70/gkai/m/it/10.53937/4e Ï \C70/gkai/m/it/10.53937/50 G \C70/gkai/m/it/10.53937/8b æ$\OML/cmm/m/it/10.53937 W$\C70/gkai/m/it/10.53937/4e ^^M :$\OMS/cmsy/m/n/10.53937 f[]g$\OT1/cmr/m/n/10.53937 (\C70/gkai/m/it/10.53937/59 Ç \C70/gkai/m/it/10.53937/67 ú \C70/gkai/m/it/10.53937/66 / \C70/gkai/bx/n/10.53937/5f à \C70/gkai/m/it/10.53937/5b π \C70/gkai/m/it/10.53937/66 ^^S \C70/gkai/bx/n/10.53937/5f ó \C70/gkai/m/it/10.53937/8b ¡\OT1/cmr/m/n/10.53937 ),\C70/gkai/m/it/10.53937/90 £ \C70/gkai/m/it/10.53937/4e H$\OML/cmm/m/it/10.53937 W$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/4e ^^@ \C70/gkai/m/it/10.53937/7e ƒ \C70/gkai/m/it/10.53937/57 ˙ \C70/gkai/m/it/10.53937/4e :$\OMS/cmsy/m/n/10.53937 f[][]\OML/cmm/m/it/10.53937 ; []  ; [][]\OMS/cmsy/m/n/10.53937 g$\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/54 ^^L
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2903--2904
+
+ []
+
+[91]
+Underfull \hbox (badness 10000) in paragraph at lines 2919--2920
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2931--2932
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2933--2934
+
+ []
+
+[92]
+Underfull \hbox (badness 10000) in paragraph at lines 2935--2936
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2961--2962
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2965--2966
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2966--2968
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2968--2970
+
+ []
+
+[93]
+Underfull \hbox (badness 10000) in paragraph at lines 2980--2982
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2985--2987
+
+ []
+
+[94]
+Underfull \hbox (badness 10000) in paragraph at lines 3016--3017
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3029--3030
+
+ []
+
+[95]
+Underfull \hbox (badness 10000) in paragraph at lines 3035--3036
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3038--3039
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3048--3049
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3053--3054
+
+ []
+
+[96]
+Underfull \hbox (badness 10000) in paragraph at lines 3074--3075
+
+ []
+
+[97]
+Underfull \hbox (badness 10000) in paragraph at lines 3108--3109
+
+ []
+
+[98]
+Underfull \hbox (badness 10000) in paragraph at lines 3143--3144
+
+ []
+
+
+Overfull \hbox (29.68997pt too wide) in paragraph at lines 3178--3180
+\C70/gkai/m/it/10.53937/62 ^^Q \C70/gkai/m/it/10.53937/4e Ï \C70/gkai/m/it/10.53937/79 $[][][][]$\C70/gkai/m/it/10.53937/4e : \C70/gkai/m/it/10.53937/62 ï \C70/gkai/bx/n/10.53937/5f q \C70/gkai/m/it/10.53937/77 È \C70/gkai/m/it/10.53937/96 5\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/6c Ë \C70/gkai/m/n/10.53937/61 ^^O\OT1/cmr/m/n/10.53937 !\C70/gkai/m/it/10.53937/67 Ñ \C70/gkai/m/it/10.53937/62 ^^P ï \C70/gkai/bx/n/10.53937/5f q \C70/gkai/m/it/10.53937/77 È \C70/gkai/m/it/10.53937/96 5 \C70/gkai/bx/n/10.53937/5f b \C70/gkai/m/it/10.53937/62 ^^P \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/6b œ \C70/gkai/m/it/10.53937/4e * \C70/gkai/m/it/10.53937/54 ^^Q \C70/gkai/m/it/10.53937/91 œ$[][]$[]\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/54 &
+ []
+
+
+Overfull \hbox (20.68567pt too wide) in paragraph at lines 3182--3183
+[]$\U/msb/m/n/10.53937 R[]$\C70/gkai/m/it/10.53937/4e - \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/4e å \C70/gkai/m/it/10.53937/6b ! \C70/gkai/m/it/10.53937/57 ã \C70/gkai/m/it/10.53937/66 / \C70/gkai/m/it/10.53937/4e ^^@ * \C70/gkai/m/it/10.53937/5b ö \C70/gkai/m/it/10.53937/4e I \C70/gkai/m/it/10.53937/57 ($\U/msb/m/n/10.53937 R[]$\C70/gkai/m/it/10.53937/4e 
+ \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/51 ˝ \C70/gkai/m/it/10.53937/65 p\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/51 v \C70/gkai/m/it/10.53937/57 ($[]$\C70/gkai/m/it/10.53937/59 ^^D \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/50 < \C70/gkai/m/it/10.53937/53 Ô \C70/gkai/m/it/10.53937/4e Â \C70/gkai/m/it/10.53937/75 1 \C70/gkai/bx/n/10.53937/88 h \C70/gkai/bx/n/10.53937/8f æ \C70/gkai/bx/n/10.53937/5f ^^O$\OML/cmm/m/it/10.53937 Q\OT1/cmr/m/n/10.53937 ([]) =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3182--3183
+
+ []
+
+[99]
+Underfull \hbox (badness 10000) in paragraph at lines 3187--3189
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3192--3193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3194--3195
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3205--3206
+
+ []
+
+[100]
+Underfull \hbox (badness 10000) in paragraph at lines 3218--3219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3220--3221
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3224--3225
+
+ []
+
+[101] [102]
+Underfull \hbox (badness 10000) in paragraph at lines 3308--3310
+
+ []
+
+
+Overfull \hbox (45.12976pt too wide) in paragraph at lines 3318--3319
+\C70/gkai/bx/n/10.53937/74 ^^F$\OML/cmm/m/it/10.53937 A[]A$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/bx/n/10.53937/72 y \C70/gkai/bx/n/10.53937/5f Å \C70/gkai/m/it/10.53937/50 < \C70/gkai/m/it/10.53937/4f ^^? \C70/gkai/bx/n/10.53937/5f ó$\OML/cmm/m/it/10.53937 ^^U[] \OMS/cmsy/m/n/10.53937 ^^U [] ^^U \OML/cmm/m/it/10.53937 ^^U[]$\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/50 G \C70/gkai/bx/n/10.53937/82 Â$\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/67 	$\OML/cmm/m/it/10.53937 r$\C70/gkai/m/it/10.53937/4e * \C70/gkai/m/it/10.53937/59 G \C70/gkai/bx/n/10.53937/5f ^^B \C70/gkai/m/it/10.53937/50 <\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/90 £ \C70/gkai/m/it/10.53937/4e H$\OMS/cmsy/m/n/10.53937 f\OML/cmm/m/it/10.53937 A[][]; []  ; A[][]\OMS/cmsy/m/n/10.53937 g$\C70/gkai/m/it/10.53937/66 /$[]\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/76 Ñ
+ []
+
+
+Overfull \hbox (8.5826pt too wide) detected at line 3338
+\OML/cmm/m/it/10.53937 U \OT1/cmr/m/n/10.53937 = [] \OML/cmm/m/it/10.53937 ; \OT1/cmr/m/n/10.53937 ^^F = [] \OML/cmm/m/it/10.53937 ; V \OT1/cmr/m/n/10.53937 = []
+ []
+
+[103]
+Overfull \hbox (4.72765pt too wide) detected at line 3362
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3364--3365
+
+ []
+
+[104] [105]
+Overfull \hbox (9.96463pt too wide) in paragraph at lines 3457--3458
+[] \C70/gkai/m/n/10.53937/99 ñ \C70/gkai/m/it/10.53937/51 H \C70/gkai/m/it/10.53937/62 ^^Q \C70/gkai/m/it/10.53937/4e Ï \C70/gkai/m/it/10.53937/51 H \C70/gkai/m/it/10.53937/66 ^^N \C70/gkai/m/n/10.53937/78 n\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/57 (\OT1/cmr/m/n/10.53937 SVD\C70/gkai/bx/n/10.53937/8f « \C70/gkai/bx/n/10.53937/7a  \C70/gkai/m/it/10.53937/4e -\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/62 ^^Q \C70/gkai/m/it/10.53937/4e Ï ã \C70/gkai/m/it/10.53937/5b û \C70/gkai/m/it/10.53937/4e 
+ \C70/gkai/m/it/10.53937/67 Ñ \C70/gkai/m/it/10.53937/90   \C70/gkai/m/it/10.53937/4e Ü$[][]\OML/cmm/m/it/10.53937 ; []  ; [][]$\C70/gkai/m/it/10.53937/4f \ \C70/gkai/m/it/10.53937/4e :$\U/msb/m/n/10.53937 R[]$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/57 ˙\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/51 v
+ []
+
+
+Overfull \hbox (43.53566pt too wide) in paragraph at lines 3457--3458
+\C70/gkai/m/it/10.53937/4e -$[][]\OML/cmm/m/it/10.53937 ; []  ; [][]$\C70/gkai/m/it/10.53937/4e :$[]\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/57 ˙\OT1/cmr/m/n/10.53937 ,\C70/gkai/bx/n/10.53937/80 ^^L \C70/gkai/m/it/10.53937/67 Ñ \C70/gkai/m/it/10.53937/90   \C70/gkai/m/it/10.53937/4e Ü$[][]\OML/cmm/m/it/10.53937 ; []  ; [][]$\C70/gkai/m/it/10.53937/4f \ \C70/gkai/m/it/10.53937/4e :$\U/msb/m/n/10.53937 R[]$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/57 ˙\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/51 v \C70/gkai/m/it/10.53937/4e -$[][]\OML/cmm/m/it/10.53937 ; []  ; [][]$\C70/gkai/m/it/10.53937/4e :$[]\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/76 Ñ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3469--3470
+
+ []
+
+[106]
+Overfull \hbox (8.07948pt too wide) in paragraph at lines 3518--3519
+[]\C70/gkai/m/it/10.53937/5b û \C70/gkai/m/it/10.53937/96 E \C70/gkai/m/it/10.53937/5e î \C70/gkai/m/it/10.53937/75 ( \C70/gkai/m/it/10.53937/4e -\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/62 ^^Q \C70/gkai/m/it/10.53937/4e Ï \C70/gkai/m/it/10.53937/5e î \C70/gkai/m/it/10.53937/90 ^^? \C70/gkai/m/it/10.53937/51 M$\OML/cmm/m/it/10.53937 A[]A$\C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/8b ° \C70/gkai/bx/n/10.53937/7b ó\OT1/cmr/m/n/10.53937 ,\C70/gkai/m/it/10.53937/53 ü \C70/gkai/bx/n/10.53937/56 ‡ \C70/gkai/m/it/10.53937/66 / \C70/gkai/m/it/10.53937/4e ˚ \C70/gkai/m/it/10.53937/4f U$\OML/cmm/m/it/10.53937 A$\C70/gkai/m/it/10.53937/4e - \C70/gkai/m/it/10.53937/51 C \C70/gkai/m/n/10.53937/7d   \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/8b Ô \C70/gkai/bx/n/10.53937/5d Ó \C70/gkai/m/it/10.53937/57 ($\OML/cmm/m/it/10.53937 A[]A$\C70/gkai/m/it/10.53937/4e -
+ []
+
+[107]
+Underfull \hbox (badness 10000) in paragraph at lines 3549--3549
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3561--3562
+
+ []
+
+[108]
+Underfull \hbox (badness 10000) in paragraph at lines 3622--3626
+
+ []
+
+[109]
+Underfull \hbox (badness 10000) in paragraph at lines 3641--3644
+
+ []
+
+
+Overfull \hbox (13.3562pt too wide) in paragraph at lines 3655--3657
+[]\C70/zhhei/m/n/10.53937/8b ¡ \C70/zhhei/m/n/10.53937/66 ^^N \C70/zhkai/m/n/10.53937/8b æ$\OML/cmm/m/it/10.53937 A$\C70/zhkai/bx/n/10.53937/4e : \C70/zhkai/bx/n/10.53937/7e ø \C70/zhkai/bx/n/10.53937/60 ' \C70/zhkai/bx/n/10.53937/53 ÿ \C70/zhkai/m/n/10.53937/63 b$\OML/cmm/m/it/10.53937 T$\C70/zhkai/bx/n/10.53937/76 Ñ \C70/zhkai/m/n/10.53937/68 ^^G \C70/zhkai/bx/n/10.53937/51 ∆ \C70/zhkai/bx/n/10.53937/77 È \C70/zhkai/bx/n/10.53937/96 5\OT1/cmr/m/n/10.53937 ,\C70/zhkai/m/n/10.53937/5b ˘$\OML/cmm/m/it/10.53937 A$\C70/zhkai/bx/n/10.53937/8f € \C70/zhkai/m/n/10.53937/88 L \C70/zhkai/m/n/10.53937/59 G \C70/zhkai/m/n/10.53937/5f ^^B \C70/zhkai/m/n/10.53937/50 < \C70/zhkai/bx/n/10.53937/52 ^^F \C70/zhkai/m/n/10.53937/89 „ \C70/zhkai/m/n/10.53937/5f ó \C70/zhkai/bx/n/10.53937/52 0$\OML/cmm/m/it/10.53937 A \OT1/cmr/m/n/10.53937 = \OML/cmm/m/it/10.53937 U\OT1/cmr/m/n/10.53937 ^^F\OML/cmm/m/it/10.53937 V[]$\OT1/cmr/m/n/10.53937 ,\C70/zhkai/m/n/10.53937/62 ^^Q
+ []
+
+
+Overfull \hbox (4.82474pt too wide) detected at line 3664
+\OML/cmm/m/it/10.53937 T\OT1/cmr/m/n/10.53937 ([][]) = []
+ []
+
+[110] [111] [112]
+Underfull \hbox (badness 10000) in paragraph at lines 3701--3702
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3703--3704
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3720--3721
+
+ []
+
+[113]
+Underfull \hbox (badness 10000) in paragraph at lines 3733--3734
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3736--3737
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3738--3739
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3741--3743
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3744--3745
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3746--3747
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3748--3752
+
+ []
+
+[114]
+Underfull \hbox (badness 10000) in paragraph at lines 3752--3754
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3755--3756
+
+ []
+
+
+Overfull \hbox (3.19429pt too wide) in paragraph at lines 3757--3758
+[]\C70/gkai/bx/n/10.53937/73 Ø \C70/gkai/m/it/10.53937/66 / \C70/gkai/m/it/10.53937/57 ( \C70/gkai/m/it/10.53937/53 J \C70/gkai/bx/n/10.53937/73 Ø \C70/gkai/m/it/10.53937/76 Ñ \C70/gkai/m/it/10.53937/57 ˙ \C70/gkai/m/n/10.53937/78 @ \C70/gkai/m/it/10.53937/4e 
+|\C70/gkai/bx/n/10.53937/ff ^^L| \C70/gkai/m/it/10.53937/5c ^^F \C70/gkai/m/it/10.53937/4f \ \C70/gkai/m/it/10.53937/4e : \C70/gkai/m/it/10.53937/96 ? \C70/gkai/m/n/10.53937/8d ^^] \C70/gkai/m/it/10.53937/5c ^^T \C70/gkai/m/it/10.53937/5e z \C70/gkai/m/it/10.53937/53 J \C70/gkai/bx/n/10.53937/7f § |\C70/gkai/bx/n/10.53937/ff ^^H|\C70/gkai/m/it/10.53937/90 ^^Z \C70/gkai/m/it/10.53937/5e 8 \C70/gkai/m/it/10.53937/4e „ \C70/gkai/bx/n/10.53937/88 h \C70/gkai/m/it/10.53937/52 † \C70/gkai/m/it/10.53937/6c ’|\C70/gkai/bx/n/10.53937/ff 	| \C70/gkai/m/it/10.53937/76 Ñ$\OT1/cmr/m/n/10.53937 (\OML/cmm/m/it/10.53937 S; \OMS/cmsy/m/n/10.53937 ^^N\OT1/cmr/m/n/10.53937 )$\C70/gkai/m/it/10.53937/53 ÿ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3759--3761
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3762--3763
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3764--3765
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3766--3767
+
+ []
+
+[115]
+Underfull \hbox (badness 10000) in paragraph at lines 3776--3778
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3779--3780
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3781--3782
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3783--3784
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3785--3786
+
+ []
+
+[116] (c:/code/LaTex/linear algebra and geometry/Á∫øÊÄß‰ª£Êï∞‰∏éÂá†‰Ωï.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8472 strings out of 480608
+ 153391 string characters out of 5907536
+ 354837 words of memory out of 5000000
+ 23976 multiletter control sequences out of 15000+600000
+ 642338 words of font info for 426 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 46i,19n,52p,582b,549s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simkai.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu20.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu24.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu30.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu4e.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu4f.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu50.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu51.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu52.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu53.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu54.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu55.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu56.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu57.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu58.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu59.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu5b.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu5c.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu5d.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu5e.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu5f.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu60.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu61.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu62.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu63.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu64.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu65.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu66.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu67.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu68.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu69.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu6a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu6b.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu6c.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu6d.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu6e.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu70.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu71.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu72.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu73.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu74.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu75.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu76.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu77.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu78.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu79.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu7a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu7b.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu7c.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu7d.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu7e.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu7f.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu80.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu81.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu82.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu83.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu84.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu85.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu86.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu88.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu89.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu8a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu8b.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu8c.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu8d.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu8e.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu8f.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu90.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu91.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu94.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu95.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu96.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu97.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu98.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu99.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu9a.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu9e.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiu9f.pfb><c:/texlive/2020/texmf-dist/fonts/type1/arphic/gkaiu/gkaiuff.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
+am10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "c:/code/LaTex/linear algebra and geometry/Á∫øÊÄß‰ª£Êï∞‰∏éÂá†‰Ωï.pdf" (116 pages, 1272159 bytes).
+PDF statistics:
+ 1270 PDF objects out of 1440 (max. 8388607)
+ 921 compressed objects within 10 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
